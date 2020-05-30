@@ -11,6 +11,7 @@ These agents are able to learn optimal policies until convergence when put into 
 ![188_p3b](https://user-images.githubusercontent.com/54779918/83335701-d3d23780-a2ae-11ea-86ca-f3c5943df161.gif)
 
 
-![188_p3c](https://user-images.githubusercontent.com/54779918/83335894-22cc9c80-a2b0-11ea-954e-e4aee5221ff1.gif)
+![188_p3c](https://user-images.githubusercontent.com/54779918/83335925-60312a00-a2b0-11ea-86cb-01cd2716828c.gif)
+
 
 
